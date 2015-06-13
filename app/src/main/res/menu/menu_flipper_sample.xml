@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="assignment.yong.com.mobilefinancalapp.TransactionActivity">
+
+    <item android:id="@+id/action_spending" android:title="@string/action_spending"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_transaction" android:title="@string/action_transaction"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_categories" android:title="@string/action_categories"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_report" android:title="@string/action_report"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
